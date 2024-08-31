@@ -1,0 +1,49 @@
+[  
+    {
+        "id": "mongo",
+        "body":{
+            "name": "Mongo",
+            "category": "database",
+            "image": "https://miro.medium.com/v2/resize:fit:1000/0*8v1xNP18Ovj3wg6K.gif",
+            "recommended": true
+        }
+         
+    },
+    {
+    "id": "redis",
+    "body":{
+        "name": "Redis",
+        "category": "database",
+        "image": "https://www.stackery.io/assets/images/posts/redis-cache-cluster-support/featured.svg",
+        "recommended": true 
+    }
+},
+{
+    "id": "postgresql",
+    "body":{
+        "name": "PostgreSQL",
+        "category": "database",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png",
+        "recommended": true
+    }
+},
+{
+    "id": "minio",
+    "body": {
+        "name": "Minio",
+        "category": "database",
+        "image": "https://simplecore.intel.com/intel-capital/wp-content/uploads/sites/99/MinIO_4.jpg",
+        "recommended": true  
+    }
+},
+{
+    "id": "strapi",
+    "body": {
+        "name": "Strapi",
+        "category": "application",
+        "image": "https://mms.businesswire.com/media/20210422005416/en/792790/23/Logo.WhiteBackground.jpg",
+        "recommended": true 
+    }
+
+}
+]
